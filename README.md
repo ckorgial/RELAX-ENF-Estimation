@@ -1,2 +1,2 @@
-# RELAX-ENF-Estimation
-MATLAB code for the Robust RELAX-Based ENF Estimation (SETN 2024)
+# A Robust RELAX-Based Algorithm for Enhanced Electric Network Frequency Estimation
+
