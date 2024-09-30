@@ -4,7 +4,7 @@ We would like to acknowledge (Hua et al.) for their work [Robust ENF Estimation 
 
 # Our Paper
 
-This repo contains the codes of the proposed RELAX-based ENF estimation described in the [**A Robust RELAX-Based Algorithm for Enhanced Electric Network Frequency Estimation**]() paper. The paper is published in the *** Proceedings of the 13th Conference on Artificial Intelligence*** (SETN 2024).
+This repo contains the codes of the proposed RELAX-based ENF estimation described in the [**A Robust RELAX-Based Algorithm for Enhanced Electric Network Frequency Estimation**]() paper. The paper is published in the ***Proceedings of the 13th Conference on Artificial Intelligence*** (SETN 2024).
 
 # Dataset
 
