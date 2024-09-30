@@ -1,2 +1,3 @@
 # A Robust RELAX-Based Algorithm for Enhanced Electric Network Frequency Estimation
 
+We would like to acknowledge (Hua et al.) for their work [Robust ENF Estimation Based on Harmonic Enhancement and Maximum Weight Clique](https://ieeexplore.ieee.org/abstract/document/9494518) which inspired us to develop our RELAX-based estimation schemes. We would like to thank them for sharing their codes in [ENF_Enhancement_Estimation](https://github.com/ghua-ac/ENF-WHU-Dataset/tree/master/ENF_Enhancement_Estimation) folder. Moreover, we would like to thank (Li et al.) for inspiring us to employ the relaxation algorithm [Efficient mixed-spectrum estimation with applications to target feature extraction](https://ieeexplore.ieee.org/document/540585) for ENF estimation.
